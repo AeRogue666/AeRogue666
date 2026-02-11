@@ -8,7 +8,7 @@
 </a>&nbsp;
 <!-- <a href="https://codepen.io/AurelDev">
     <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
-</a>&nbsp;
+</a>&nbsp; -->
 
 <br>
 
