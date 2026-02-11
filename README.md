@@ -3,22 +3,26 @@
 <a href="https://aureldev.github.io/">
     <img src="https://img.shields.io/badge/portfolio-skyblue?&style=for-the-badge&logo=github&logoColor=black" alt="Portfolio">
 </a>&nbsp;
-<a href="https://linkedin.com/AurelDev">
+<a href="https://linkedin.com/aurelien-gasnier">
     <img src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>&nbsp;
-<a href="https://codepen.io/AurelDev">
+<!-- <a href="https://codepen.io/AurelDev">
     <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
 </a>&nbsp;
 
 <br>
 
-I am a Frontend Developer Junior specialized into UX/UI & Accessibility. 
+I am a Full-stack developer specialized into Accessibility & UX/UI. 
 
 I love to **learn** about new technology, robotic, astronomy and reading books, **talk** with people around the world, giving some **help** when needed and **making** things with CSS, HTML and JavaScript.
 
 Now
 
 I make some projects to learn more and to progress in coding.
+
+I actually work on :
+- Version 2 of my portfolio : <a href="https://github.com/AeRogue666/Portfolio_v2">Portfolio v2</a>
+- French e-commerce platform for selling asian products UI and UX : <a href="https://github.com/AeRogue666/Epices-du-monde">Epices du monde</a>
 
 Before 2023
 - I was a translator (German) and Sprites Designer for an open source videogame (2D MMORPG) called <a href="https://github.com/BrolyTheVVF/WonderlandFantasy">Wonderland Fantasy</a>.
@@ -75,4 +79,4 @@ I have some achievements but not in Dev.
 
 ## Latest Blog Posts
 
-I didn't post anything right now but maybe soon.
+I didn't post anything right now but maybe soon. (You can watch my portfolio too, there is updates, posts, projects)
